@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Vehicle Emergency Response System",
+  "description": "A vehicle-integrated emergency response system that automatically detects crashes, packages telemetry and dashcam footage, alerts responders, and coordinates hospital readiness without manual intervention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
